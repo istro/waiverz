@@ -1,4 +1,16 @@
 WaiverSigner::Application.routes.draw do
+  get "members/new"
+
+  get "members/create"
+
+  get "members/show"
+
+  get "members/edit"
+
+  get "members/update"
+
+  get "members/destroy"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
