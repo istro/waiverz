@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  her: MyString
+  him: MyString
+  expiration: 2012-11-02
+  email: MyString
+  notes: MyText
+
+two:
+  her: MyString
+  him: MyString
+  expiration: 2012-11-02
+  email: MyString
+  notes: MyText
